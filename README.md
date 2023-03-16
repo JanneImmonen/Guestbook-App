@@ -18,21 +18,29 @@ git clone https://github.com/JanneImmonen/Guestbook-App.git
 
 2. Navigate to the project folder:
 
+```bash
 cd Guestbook-App
+```
 
 3. Install the required dependencies:
 
+```bash
 npm install
+```
 
 4. Install EJS view engine:
 
+```bash
 npm install ejs
+```
 
 ## Usage
 
 1. Start the application:
 
+```bash
 node app.js
+```
 
 2. Open your browser and navigate to http://localhost:3000 to use the Guestbook App.
 
@@ -42,4 +50,4 @@ Contributions are welcome! Please submit a pull request or open an issue to make
 
 ## Licence
 
-MIT
+© Janne Immonen 2023
