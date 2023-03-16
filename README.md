@@ -14,6 +14,7 @@ A simple guestbook app built with Node.js, Express, and EJS. Users can add messa
 
 ```bash
 git clone https://github.com/JanneImmonen/Guestbook-App.git
+```
 
 2. Navigate to the project folder:
 
